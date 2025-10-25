@@ -76,20 +76,7 @@ Quantum_Secure_Messaging_App.py   # Main simulator file
 README.md                         # Documentation file
 ```
 
----
 
-## 🌐 Repository Setup (GitHub)
-
-1. Create a new repository on GitHub  
-2. Add your files:
-   ```bash
-   git init
-   git add Quantum_Secure_Messaging_App.py README.md
-   git commit -m "Add Quantum Secure Messaging Application"
-   git branch -M main
-   git remote add origin <YOUR_REPO_URL>
-   git push -u origin main
-   ```
 
 ---
 
@@ -99,7 +86,4 @@ This project is open-source under the **MIT License**.
 
 ---
 
-## ✨ Author
-
-Developed for educational purposes to demonstrate **Quantum Cryptography** concepts and **secure communication** using **BB84 protocol**.
 
