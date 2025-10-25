@@ -1,0 +1,5 @@
+# requirements.txt
+# Quantum Secure Messaging Application (BB84 Simulator)
+# Python environment dependencies
+
+python>=3.7
